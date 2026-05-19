@@ -12,7 +12,10 @@ livekit-plugins-liveavatar
 livekit-plugins-turn-detector
 
 # Pinecone Assistant
-pinecone[assistant]
+# Note: the [assistant] extra doesn't reliably install the plugin namespace on a fresh
+# install, so pin the plugin package explicitly to guarantee pinecone_plugins.assistant.*
+pinecone
+pinecone-plugin-assistant
 
 # Environment variables
 python-dotenv
