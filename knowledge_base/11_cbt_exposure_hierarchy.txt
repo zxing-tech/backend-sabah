@@ -1,0 +1,94 @@
+GRADED EXPOSURE — CBT FOR ANXIETY AND AVOIDANCE
+
+Graded exposure is a core CBT technique for anxiety disorders. It works by systematically and gradually facing feared situations, allowing the brain to learn that the feared outcome does not occur (or is manageable).
+
+THE AVOIDANCE-ANXIETY CYCLE:
+Feared Situation → Anxiety → Avoidance → Short-term Relief → Increased Fear of Situation → More Avoidance → ...
+
+WHY AVOIDANCE MAKES ANXIETY WORSE:
+- Avoidance prevents you from learning that you can cope
+- Each avoidance reinforces the belief that the situation is dangerous
+- The feared situation grows larger in your mind over time
+- Avoidance often spreads to related situations (generalization)
+
+HOW EXPOSURE WORKS:
+- Facing feared situations in a controlled, gradual way
+- Allows anxiety to naturally rise and then fall (habituation)
+- Teaches the brain new safety associations (inhibitory learning)
+- Builds confidence and self-efficacy
+- Breaks the avoidance cycle
+
+BUILDING A FEAR HIERARCHY (EXPOSURE LADDER):
+
+Step 1: IDENTIFY THE FEARED SITUATION
+What is the situation, object, or activity you're avoiding?
+Example: Public speaking
+
+Step 2: RATE YOUR FEAR (SUDS Scale)
+SUDS = Subjective Units of Distress Scale (0-100)
+0 = No anxiety at all
+25 = Mild anxiety, can manage easily
+50 = Moderate anxiety, uncomfortable but manageable
+75 = High anxiety, very difficult
+100 = Maximum anxiety, feels unbearable
+
+Step 3: BUILD THE LADDER
+List 8-12 situations related to your fear, from least to most anxiety-provoking.
+
+Example — Fear of Public Speaking:
+1. Reading about public speaking tips (SUDS: 10)
+2. Practicing a speech alone at home (SUDS: 20)
+3. Recording yourself giving a speech (SUDS: 30)
+4. Giving a speech to one trusted friend (SUDS: 40)
+5. Giving a speech to 2-3 close friends (SUDS: 50)
+6. Speaking up in a small meeting at work (SUDS: 55)
+7. Presenting to a small group of 5-6 colleagues (SUDS: 65)
+8. Presenting to a medium group of 10-15 people (SUDS: 75)
+9. Giving a presentation to a department of 20+ people (SUDS: 85)
+10. Giving a keynote to a large audience (SUDS: 95)
+
+Example — Social Anxiety:
+1. Smile at a stranger while walking (SUDS: 15)
+2. Make small talk with a cashier (SUDS: 25)
+3. Call a friend on the phone (SUDS: 35)
+4. Attend a small gathering with people you know (SUDS: 45)
+5. Start a conversation with an acquaintance (SUDS: 55)
+6. Attend a party where you know few people (SUDS: 65)
+7. Join a new group activity or class (SUDS: 70)
+8. Introduce yourself to a stranger at an event (SUDS: 80)
+9. Host a small gathering (SUDS: 85)
+10. Give a toast at a social event (SUDS: 90)
+
+Step 4: START AT THE BOTTOM
+Begin with the lowest item on your ladder. Stay in the situation until anxiety naturally decreases (usually 20-45 minutes, but can be shorter).
+
+Step 5: REPEAT AND MOVE UP
+Repeat each step until your SUDS rating drops significantly (by about half). Then move to the next step.
+
+TYPES OF EXPOSURE:
+
+1. IN VIVO (Real Life): Facing the actual feared situation
+2. IMAGINAL: Vividly imagining the feared situation
+3. INTEROCEPTIVE: Deliberately inducing feared physical sensations (e.g., spinning in a chair for dizziness fear)
+4. VIRTUAL: Using technology to simulate feared situations
+
+GUIDELINES FOR EFFECTIVE EXPOSURE:
+- Gradual: Start easy and work up
+- Prolonged: Stay in the situation long enough for anxiety to naturally decrease
+- Repeated: Do each step multiple times
+- Without safety behaviors: Resist subtle avoidance (e.g., checking phone, standing near exit)
+- Planned: Schedule exposures in advance
+- Reflected upon: After each exposure, note what you learned
+
+WHAT TO EXPECT DURING EXPOSURE:
+- Anxiety will rise initially — this is expected and normal
+- Anxiety will peak and then naturally decrease (habituation curve)
+- Early exposures may feel intense; later ones will feel easier
+- Some days will be harder than others — this is normal
+- Progress is not always linear
+
+COMMON OBSTACLES:
+- "I can't do it": Break the step down further. If "call a friend" is too hard, start with "text a friend."
+- "It didn't work — I still felt anxious": Some anxiety is expected. Success is doing it, not feeling zero anxiety.
+- "I did it but only because I had my phone/friend/escape plan": Gradually reduce safety behaviors as you repeat the step.
+- "I had a setback": Setbacks are part of the process. Go back a step or two and rebuild.

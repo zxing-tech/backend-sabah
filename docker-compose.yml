@@ -1,0 +1,19 @@
+services:
+  agent:
+    build:
+      context: .
+    image: backend-sabah:latest
+    pull_policy: never
+    container_name: backend-sabah
+    restart: unless-stopped
+    environment:
+      PINECONE_API_KEY: ${PINECONE_API_KEY}
+      ASSISTANT_NAME: ${ASSISTANT_NAME}
+      LIVEKIT_URL: ${LIVEKIT_URL}
+      LIVEKIT_API_KEY: ${LIVEKIT_API_KEY}
+      LIVEKIT_API_SECRET: ${LIVEKIT_API_SECRET}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      DEEPGRAM_API_KEY: ${DEEPGRAM_API_KEY}
+      CARTESIA_API_KEY: ${CARTESIA_API_KEY}
+      LIVEAVATAR_API_KEY: ${LIVEAVATAR_API_KEY}
+      LIVEAVATAR_AVATAR_ID: ${LIVEAVATAR_AVATAR_ID}

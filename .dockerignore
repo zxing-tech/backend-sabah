@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+ARCHITECTURE.md
+SETUP_GUIDE.md
+
+# Test files
+test_*.py
+
+# React frontend
+agent-starter-react/
+
+# Images we don't need (only keep customer_service2_resized.jpg)
+avatar_resized.jpg
+customer-service-representative.jpg
+customer-service-representative2.jpg
+customer-service-representative3.jpg
+customer_service_resized.jpg
+customer_service3_resized.jpg
+*.drawio
+
+# Scripts
+create_hedra_avatar.py
+resize_avatar.py
+
+# Other
+knowledge_base/
+.claude/
+theraverse.code-workspace

@@ -1,0 +1,21 @@
+# Core LiveKit dependencies
+livekit
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-google
+livekit-plugins-cartesia
+livekit-plugins-azure
+livekit-plugins-deepgram
+livekit-plugins-silero
+livekit-plugins-noise-cancellation
+livekit-plugins-liveavatar
+livekit-plugins-turn-detector
+
+# Pinecone Assistant
+pinecone[assistant]
+
+# Environment variables
+python-dotenv
+
+# Image processing
+Pillow
