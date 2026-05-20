@@ -13,8 +13,10 @@ livekit-plugins-turn-detector
 
 # Pinecone Assistant
 # Note: the [assistant] extra doesn't reliably install the plugin namespace on a fresh
-# install, so pin the plugin package explicitly to guarantee pinecone_plugins.assistant.*
+# install, and pinecone-plugin-assistant's dep on pinecone-plugin-interface isn't always
+# pulled in. Pin all three explicitly so a clean build always works.
 pinecone
+pinecone-plugin-interface
 pinecone-plugin-assistant
 
 # Environment variables
